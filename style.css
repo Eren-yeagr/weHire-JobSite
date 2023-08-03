@@ -1,0 +1,145 @@
+#navbar{
+   
+  margin: 0px 28px;
+}
+
+/* first-section */
+#first-sec{
+   background: url(https://images.unsplash.com/photo-1524334228333-0f6db392f8a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80) no-repeat center center/cover;
+   color: white;
+   height: 600px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 0px 28px;
+   border-radius: 20px;
+}
+#first-sec h3{
+  color: rgb(151, 148, 148);
+}
+
+
+/* second-section */
+
+#second-sec{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   
+}
+#second-sec div{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 46%;
+   /* background-color: rgb(224, 230, 230); */
+   margin-top: 40px;
+   border-radius: 20px;
+   /* border: 2px solid black; */
+   box-shadow: 0px 0px 20px 1px rgb(225, 234, 234);
+}
+
+#second-sec h2{
+   padding-top: 30px ;
+}
+#second-sec h5{
+   width: 75%;
+   color: gray;
+}
+#second-sec img{
+   
+   width: 450px;
+   height: 450px;
+}
+
+/* third section  */
+
+#third-section{
+   display: flex;
+   background-color: rgb(255, 255, 255);
+   align-items: center;
+   /* border: 2px solid black; */
+   margin: 40px 28px;
+   border-radius: 20px;
+   box-shadow:0px 0px 20px 1px rgb(225, 234, 234); ;
+}
+#third-section .image{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 50%;
+   /* background-color: rgb(224, 230, 230); */
+   
+  
+}
+#third-section .text{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 50%;
+   /* background-color: rgb(224, 230, 230); */
+ 
+  
+}
+#third-section img{
+      width: 500px;
+      height: 500px;
+      
+}
+#third-section h6{
+   width: 75%;
+   color: grey;
+}
+
+/* two n half sec  */
+
+#fourth{
+      
+      height: 600px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: 40px 28px;
+      border-radius: 20px;
+   }
+   #fourth .logo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+   }
+   #fourth .logo img{
+      width: 100px;
+      height: 100px;
+      margin: 80px 20px;
+      
+   }
+  /* fifth-sec */
+
+  #fifth-sec{
+   background-color: rgb(29, 27, 27);
+   color: white;
+   height: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+   
+  }
+  #fifth-sec .fifth h1{
+   
+  }
+  #footer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 40px;
+   background-color: black;
+   
+   color: white;
+  
+  }
+
+

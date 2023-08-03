@@ -1,0 +1,74 @@
+#first-sec h1{
+    font-size: 0.8rem;
+}
+#first-sec h3{
+     font-size: 0.8rem;
+}
+#first-sec {
+    height: 300px;
+}
+#first-sec .content{
+    height: 200px;
+}
+#first-sec button{
+    width: 90px;
+    height: 40px;
+    font-size: 0.5rem;
+}
+
+#second-sec h2{
+    font-size: 0.5rem;
+}
+#second-sec h5{
+    font-size: 0.3rem;
+}
+#second-sec img{
+    height: 100px;
+    width: 100px;
+}
+
+#fourth{
+    height: 200px;
+}
+#fourth h1{
+    font-size: 0.7rem;
+}
+#fourth .logo{
+    display: flex;
+    flex-wrap: wrap;
+}
+#fourth .logo img{
+    height: 50px;
+    width: 50px;
+    margin :10px 10px;
+}
+
+#third-section .image img{
+   height: 150px;
+   width: 150px;
+}
+#third-section .text h2{
+    font-size: 0.7rem;
+}
+#third-section .text h6{
+    font-size: 0.4rem;
+}
+
+#fifth-sec{
+    height: 200px;
+}
+#fifth-sec .fifth h1{
+    font-size: 0.7rem;
+}
+#fifth-sec .fifth p{
+    font-size: 0.4rem;
+}
+#fifth-sec .fifth button{
+    width: 90px;
+    height: 40px;
+    font-size: 0.5rem;
+}
+
+#footer p{
+    font-size: 0.5rem;
+}
